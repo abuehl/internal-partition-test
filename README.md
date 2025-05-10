@@ -3,7 +3,7 @@ error present in:
 
     Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34810 for x64
 
-The program fails to compile with the follwoing compiler errors:
+The program fails to compile with the following compiler errors:
 
     A.cpp(11,9): error C2079: 'f' uses undefined class 'A::Fox'
     A.cpp(12,5): error C2664: 'void A::print_age(A::Fox &)': cannot convert argument 1 from 'int' to 'A::Fox &'
