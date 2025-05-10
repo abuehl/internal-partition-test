@@ -8,7 +8,7 @@ The program fails to compile with the follwoing compiler errors:
     A.cpp(11,9): error C2079: 'f' uses undefined class 'A::Fox'
     A.cpp(12,5): error C2664: 'void A::print_age(A::Fox &)': cannot convert argument 1 from 'int' to 'A::Fox &'
 
-The program has a `main()` function in internal-partition-test.cpp. There, a module `A` is imported. Function `A::Test()` is called, which is defined in `A.cpp` as
+The program has a `main()` function in `internal-partition-test.cpp`. There, a module `A` is imported. Function `A::Test()` is called, which is defined in `A.cpp` as
 
 
     module A;
