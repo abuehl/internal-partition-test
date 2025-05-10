@@ -1,0 +1,10 @@
+*.orig
+*.vcxproj.user
+
+**/Debug/
+
+**/Release/
+
+.vs/
+
+install/*.exe

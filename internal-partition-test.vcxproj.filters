@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="internal-partition-test.cpp" />
+    <ClCompile Include="A.ixx" />
+    <ClCompile Include="Fox.cpp" />
+    <ClCompile Include="Fox_forward.cpp" />
+    <ClCompile Include="PrintFox.cpp" />
+    <ClCompile Include="PrintFox_imp.cpp" />
+    <ClCompile Include="A.cpp" />
+  </ItemGroup>
+</Project>
