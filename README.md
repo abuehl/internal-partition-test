@@ -81,7 +81,7 @@ The program has a `main()` function in `internal-partition-test.cpp`. There, a m
 
     }
 
-The program should compile fine, if :Fox_forward is imported in PrintFox.cpp.
+The program should compile fine, if `:Fox_forward` is imported in `PrintFox.cpp`.
 
 The compiler fails to accept a forward declaration in one internal partion of a class defined in a different internal partition of the same module.
 
