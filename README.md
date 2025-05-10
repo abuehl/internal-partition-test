@@ -27,7 +27,7 @@ The program has a `main()` function in `internal-partition-test.cpp`. There, a m
 
     }
 
-`:Fox` and `:PrintFox` are internal partitions of module A.
+`:Fox` and `:PrintFox` are internal partitions of module `A`.
 
 `Fox.cpp` defines class `Fox`:
 
